@@ -4,5 +4,5 @@ The attached simple source file print_random.c is to be modified by you to inclu
 See the instructions in the GitHW1a file
 
 
-STUDENT
+STUDENT:
 I have updated the project by adding a new c file and a header file. Random.c file simply returns random uppercase letters using the rand() function from the C standard library.
